@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlticeDemoBackend", "AlticeDemoBackend.csproj", "{73019DFB-3A6F-4786-9D97-8E4CA7F87ABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73019DFB-3A6F-4786-9D97-8E4CA7F87ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73019DFB-3A6F-4786-9D97-8E4CA7F87ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73019DFB-3A6F-4786-9D97-8E4CA7F87ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73019DFB-3A6F-4786-9D97-8E4CA7F87ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CBF5082-9BF6-425A-9963-856307DC97FE}
+	EndGlobalSection
+EndGlobal
